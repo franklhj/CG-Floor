@@ -1,2 +1,2 @@
 # CG-Floor
-CG-Floor code
+The code will be coming soon.
